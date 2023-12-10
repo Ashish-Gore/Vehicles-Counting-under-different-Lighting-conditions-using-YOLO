@@ -26,17 +26,57 @@ The project utilizes the YOLO algorithm due to its efficiency and real-time obje
 Under optimal lighting conditions, the system accurately detects and counts vehicles using the YOLO algorithm.
 ### Good Lighting Samples:
 
+<img src="https://github.com/Ashish-Gore/Vehicles-Counting-under-different-Lighting-conditions-using-YOLO/blob/main/1.%20Vehicles%20Counting%20under%20Good%20Lighting/Sample1.png" width="600" height="338" />
+
+#### Real Time Output:
+
+<img alt="GIF" src="https://github.com/Ashish-Gore/Vehicles-Counting-under-different-Lighting-conditions-using-YOLO/blob/main/1.%20Vehicles%20Counting%20under%20Good%20Lighting/Good%20Lighting.gif"   />
+
+
 ### 2. Vehicles Counting under Challenging Lighting Conditions:
 
 The system is designed to adapt to varying lighting conditions, ensuring reliable vehicle counting even in challenging scenarios.
 
-### Moderate Lighting Samples:
+### 1. Moderate Lighting Samples:
 
-### Low Lighting Samples:
+<img src="https://github.com/Ashish-Gore/Vehicles-Counting-under-different-Lighting-conditions-using-YOLO/blob/main/2.%20Vehicles%20Counting%20under%20Challenging%20Lighting%20Conditions/Sample2.png" width="600" height="338" />
 
-### Very Low Lighting Samples:
+#### Real Time Output:
 
-### SnowFall Samples:
+<img alt="GIF" src="https://github.com/Ashish-Gore/Vehicles-Counting-under-different-Lighting-conditions-using-YOLO/blob/main/2.%20Vehicles%20Counting%20under%20Challenging%20Lighting%20Conditions/Moderate%20Light1.gif" />
+
+<img alt="GIF" src="https://github.com/Ashish-Gore/Vehicles-Counting-under-different-Lighting-conditions-using-YOLO/blob/main/2.%20Vehicles%20Counting%20under%20Challenging%20Lighting%20Conditions/Moderate%20Light2.gif" />
+
+
+### 2. Moderate Light-Auxillary view Samples:
+
+<img src="https://github.com/Ashish-Gore/Vehicles-Counting-under-different-Lighting-conditions-using-YOLO/blob/main/2.%20Vehicles%20Counting%20under%20Challenging%20Lighting%20Conditions/Sample3.png" width="600" height="338" />
+
+#### Real Time Output:
+
+<img alt="GIF" src="https://github.com/Ashish-Gore/Vehicles-Counting-under-different-Lighting-conditions-using-YOLO/blob/main/2.%20Vehicles%20Counting%20under%20Challenging%20Lighting%20Conditions/Moderate%20Light-Auxillary%20view.gif" />
+
+
+
+### 3. Low Lighting Samples :
+
+<img src="https://github.com/Ashish-Gore/Vehicles-Counting-under-different-Lighting-conditions-using-YOLO/blob/main/2.%20Vehicles%20Counting%20under%20Challenging%20Lighting%20Conditions/Sample4.png" width="600" height="338" />
+
+#### Real Time Output:
+
+<img alt="GIF" src="https://github.com/Ashish-Gore/Vehicles-Counting-under-different-Lighting-conditions-using-YOLO/blob/main/2.%20Vehicles%20Counting%20under%20Challenging%20Lighting%20Conditions/Low%20Light.gif" />
+
+
+
+
+### 4. SnowFall Lighting Samples:
+
+<img src="https://github.com/Ashish-Gore/Vehicles-Counting-under-different-Lighting-conditions-using-YOLO/blob/main/2.%20Vehicles%20Counting%20under%20Challenging%20Lighting%20Conditions/Sample5.png" width="600" height="338" />
+
+#### Real Time Output:
+
+<img alt="GIF" src="https://github.com/Ashish-Gore/Vehicles-Counting-under-different-Lighting-conditions-using-YOLO/blob/main/2.%20Vehicles%20Counting%20under%20Challenging%20Lighting%20Conditions/Snowfall.gif" />
+
 
 
 ## Contributions:
